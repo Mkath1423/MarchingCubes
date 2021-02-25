@@ -1,4 +1,4 @@
-int res = 50;
+int res = 10;
 int col, row;
 float surfaceLevel = 0.5;
 float[][] vals;
